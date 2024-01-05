@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeanLuna21
 - 👀 I’m interested in music, movies, games and handcrafting. Also, I've been a teacher of English since I was 17.
-- 🌱 I’m currently learning Python and Data Science
+- 🌱 I’m currently learning Python and Web Development.
 - 💞️ I’m looking to collaborate on projects to put my (moderate) knowledge into practice.
 - 📫 How to reach me: You can find me on LinkedIn (https://www.linkedin.com/in/leandro-gaston-luna/) or on any other social network.
 
